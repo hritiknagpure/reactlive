@@ -1,0 +1,111 @@
+.hel{
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+font-family: 'Mulish', sans-serif;
+}
+.navbar,h2{
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+font-family: 'Mulish', sans-serif;
+}
+h1{
+    
+    text-align: center;
+}
+.link{
+    background-image: linear-gradient(rgb(155, 155, 155),rgb(255, 255, 255));
+    background-repeat: no-repeat;
+    background-size: 0% 100%;
+    background-position-x: left;
+
+    transition: background-size 200ms;
+}
+.link:hover{
+    background-size: 100% 100%;
+    background-position-x: right ;
+}
+.link1{
+    background-image: linear-gradient(rgba(245, 244, 244, 0.438),rgb(248, 225, 225));
+    background-repeat: no-repeat;
+    background-size: 0% 100%;
+    background-position-x: left;
+
+    transition: background-size 200ms;
+}
+.link1:hover{
+    background-size: 100% 100%;
+    background-position-x: right ;
+}
+.link3{
+    background-image: linear-gradient(rgba(0, 225, 255, 0.5),rgb(255, 255, 255));
+    background-repeat: no-repeat;
+    background-size: 0% 100%;
+    background-position-x: left;
+
+    transition: background-size 200ms;
+}
+.link3:hover{
+    background-size: 100% 100%;
+    background-position-x: right ;
+}
+.link4{
+    background-image: linear-gradient(rgba(249, 80, 255, 0.5),rgb(255, 255, 255));
+    background-repeat: no-repeat;
+    background-size: 0% 100%;
+    background-position-x: left;
+
+    transition: background-size 200ms;
+}
+.link4:hover{
+    background-size: 100% 100%;
+    background-position-x: right ;
+}
+.link5{
+    background-image: linear-gradient(rgba(117, 235, 170, 0.699),rgb(255, 255, 255));
+    background-repeat: no-repeat;
+    background-size: 0% 100%;
+    background-position-x: left;
+
+    transition: background-size 200ms;
+}
+.link5:hover{
+    background-size: 100% 100%;
+    background-position-x: right ;
+}
+.link6{
+    background-image: linear-gradient(rgb(199, 199, 146),rgb(255, 255, 255));
+    background-repeat: no-repeat;
+    background-size: 0% 100%;
+    background-position-x: left;
+
+    transition: background-size 200ms;
+}
+.link6:hover{
+    background-size: 100% 100%;
+    background-position-x: right ;
+}
+.link7{
+    background-image: linear-gradient(rgb(0, 238, 255),green);
+    background-repeat: no-repeat;
+    background-size: 0% 100%;
+    background-position-x: left;
+
+    transition: background-size 200ms;
+}
+.link7:hover{
+    background-size: 100% 100%;
+    background-position-x: right ;
+}
+.link8{
+    background-image: linear-gradient(rgba(0, 0, 255, 0.164),rgb(53, 53, 227));
+    background-repeat: no-repeat;
+    background-size: 0% 100%;
+    background-position-x: left;
+
+    transition: background-size 200ms;
+}
+.link8:hover{
+    background-size: 100% 100%;
+    background-position-x: right ;
+}
+/* .nav-item{
+    text-shadow: 2px 2px #FF0000;
+} */

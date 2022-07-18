@@ -1,0 +1,15 @@
+body{
+  margin: 0%;
+  background-image: url(../public/background.jpg);
+ background-size:cover;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+
+}
+body h1{
+  color: aliceblue;
+}
+body p{
+  color: ghostwhite;
+}
